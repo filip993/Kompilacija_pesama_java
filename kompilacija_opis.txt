@@ -1,0 +1,2 @@
+Predmet: Objektno orijentisano programiranje 2
+Program koji prikazuje pesme koje se nalaze u albumu, takodje i dozvoljava dodavanje novih pesama i brisanje pesama iz albuma.
